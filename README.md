@@ -6,11 +6,19 @@ Este proyecto es una aplicación web simple que permite a los usuarios agregar n
 
 - **Agregar nombres**: Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en "Añadir" para agregarlos a la lista.
 - **Validación de entrada**: Si el campo de texto está vacío o contiene caracteres no válidos, el sistema mostrará una alerta solicitando un nombre válido.
- ![Captura de pantalla 1](errorname.png)
+<p align="center">
+  <img src="https://github.com/nerdani/Challenge_Alura-Amigo_Secreto/blob/main/assets/errorname.png" alt="Imagen" width="500">
+</p>
+ 
 - **Visualización dinámica**: Los nombres ingresados aparecerán en una lista actualizada automáticamente debajo del campo de entrada.
-![Captura de pantalla 1](name.png)
+<p align="center">
+  <img src="https://github.com/nerdani/Challenge_Alura-Amigo_Secreto/blob/main/assets/name.png" alt="Imagen" width="500">
+</p>
+
 - **Sorteo aleatorio**: Al hacer clic en el botón "Sortear Amigo", el sistema seleccionará aleatoriamente un nombre de la lista y lo mostrará en pantalla.
-![Captura de pantalla 1](namewin.png)
+<p align="center">
+  <img src="https://github.com/nerdani/Challenge_Alura-Amigo_Secreto/blob/main/assets/namewin.png" alt="Imagen" width="500">
+</p>
 
 ## Cómo ejecutar el proyecto
 
@@ -18,15 +26,14 @@ Este proyecto es una aplicación web simple que permite a los usuarios agregar n
 2. Abre el archivo `index.html` en tu navegador web (Chrome, Firefox, etc.).
 3. Si estás usando Visual Studio Code, puedes usar la extensión **Live Server** para ejecutar el proyecto.
 
-## Capturas de pantalla
-
-![Captura de pantalla 1](screenshot1.png)
-![Captura de pantalla 2](screenshot2.png)
 
 ## Problemas comunes y soluciones
 
 - **No se muestran los nombres en la lista**: Asegúrate de que el campo de texto no esté vacío y de que el nombre no esté repetido.
-  ![Captura de pantalla 1](screenshot1.png)
+<p align="center">
+  <img src="https://github.com/nerdani/Challenge_Alura-Amigo_Secreto/blob/main/assets/repeatname.png" alt="Imagen" width="500">
+</p>
 - **El sorteo no funciona**: Necesitas al menos 2 nombres en la lista para realizar el sorteo.
-  ![Captura de pantalla 1](screenshot1.png)
-
+<p align="center">
+  <img src="https://github.com/nerdani/Challenge_Alura-Amigo_Secreto/blob/main/assets/twofriends.png" alt="Imagen" width="500">
+</p>
